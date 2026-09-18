@@ -1,0 +1,6 @@
+target/
+nbacttions.xml
+nbproject/private/
+build/
+*.class
+
