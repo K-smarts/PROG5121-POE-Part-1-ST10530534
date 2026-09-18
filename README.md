@@ -15,24 +15,6 @@ POE/
     │   ├── login/
     │   │   ├── Login.java     — registration & login logic
     │   │   └── Main.java      — console runner for registration/login
-    │   └── chat/
-    │       ├── Message.java   — chat message logic (send/store/disregard, reports)
-    │       └── ChatMain.java  — console runner for the chat app
-    └── test/java
-        ├── login/LoginTest.java
-        └── chat/MessageTest.java
-```
-
-## Project layout
-```
-POE/
-├── pom.xml
-├── README.md
-└── src
-    ├── main/java
-    │   ├── login/
-    │   │   ├── Login.java     — registration & login logic
-    │   │   └── Main.java      — console runner for registration/login
     │   
     └── test/java
         ├── login/LoginTest.java
